@@ -1,1 +1,1 @@
-var name = "Harvard"
+var name = "studdy at Harvard and android rules"
